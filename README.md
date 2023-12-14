@@ -1,4 +1,4 @@
-# 12-nosql-challenge
+# 12-NoSQL-challenge
 
 <p>This is an exercise that uses MongoDB to extract and analyse UK restaurant related data</p>
 <p> There is ambiguity in the analysis file that has contradictory instructions regarding Top 5</p>
